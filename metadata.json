@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Todos",
+  "description": "A visually stunning and interactive to-do list application designed to make task management a delightful experience. Features drag-and-drop reordering, smooth animations, and local storage persistence.",
+  "requestFramePermissions": []
+}
